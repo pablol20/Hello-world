@@ -1,2 +1,4 @@
 # Hello-world
-It's just a repository
+
+
+I'm new to coding. I have splayed my ankle yesterday.
